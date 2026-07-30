@@ -105,10 +105,9 @@ Work that lives in private repositories:
 
 <div align="center">
 
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehantariq121&layout=compact&theme=vue-dark&hide_border=true&langs_count=8">
-
-<br><br>
+**Open to work on Laravel / Next.js / Web3 products.**
 
 <a href="https://github.com/rehantariq121"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://bidx-coin-website.vercel.app"><img alt="Live project" src="https://img.shields.io/badge/See_my_work-53b978?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </div>
