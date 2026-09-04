@@ -7,7 +7,7 @@
 Building production platforms with **Laravel** and **Next.js**, and on-chain products on **BNB Smart Chain**.
 
 <p>
-  <a href="https://bidx-coin-website.vercel.app"><img alt="Live project" src="https://img.shields.io/badge/Live_project-BIDX_Coin-53b978?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://bidxcoin.com"><img alt="Live project" src="https://img.shields.io/badge/Live_project-BIDX_Coin-53b978?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/rehantariq121?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -71,7 +71,7 @@ blockchain transactions to verifiable off-chain outcomes.
 
 ## Featured project
 
-### ▸ [BIDX Coin](https://github.com/rehantariq121/BIDX-COIN-WEBSITE) &nbsp;·&nbsp; [Live ↗](https://bidx-coin-website.vercel.app)
+### ▸ [BIDX Coin](https://github.com/rehantariq121/BIDX-COIN-WEBSITE) &nbsp;·&nbsp; [Live ↗](https://bidxcoin.com)
 
 A scroll-driven cinematic site for a proposed BNB Smart Chain eco-finance concept that
 connects on-chain participation with traceable tree planting.
@@ -108,6 +108,6 @@ Work that lives in private repositories:
 **Open to work on Laravel / Next.js / Web3 products.**
 
 <a href="https://github.com/rehantariq121"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://bidx-coin-website.vercel.app"><img alt="Live project" src="https://img.shields.io/badge/See_my_work-53b978?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://bidxcoin.com"><img alt="Live project" src="https://img.shields.io/badge/See_my_work-53b978?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </div>
