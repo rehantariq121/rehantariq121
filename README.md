@@ -89,6 +89,37 @@ from ~101 MB of eagerly-fetched video down to 3.6 MB** through WebP conversion, 
 
 ---
 
+## Open source
+
+Two repositories that came out of working this way every day.
+
+### ▸ [claude-code-setup](https://github.com/rehantariq121/claude-code-setup)
+
+My working Claude Code configuration, published in full. Three models split by what each is
+actually good at — Claude conducts and reviews, Gemini does bulk mechanical work, Codex takes
+root-cause hunts — with a T1–T5 routing table that decides which one gets a task before any code
+is written.
+
+The model choices are hand-tested on my own machine, not taken from vendor benchmarks: a
+4,006-case money-rounding suite, a 695 KB needle hunt with search tools forbidden, and a
+float-division bug that silently lost 64 cents. Also carries the scope contracts that stop an
+agent over-engineering, and the rule the whole setup rests on — never trust a delegated agent's
+self-reported pass; run the gate yourself.
+
+### ▸ [claude-skills-public](https://github.com/rehantariq121/claude-skills-public)
+
+Seven Claude Code skills I wrote. The two I use most:
+
+- **`source-first-ui`** — reads the real market before designing anything, reverse-engineering
+  actual type scale, radius and palette off live competitor sites, then freezes the winning system
+  into a token file so the build phase cannot drift.
+- **`graphify`** — turns any folder of code, documents or video into a queryable knowledge graph
+  with community detection and an interactive HTML output.
+
+Plus platform architecture, Claude/Codex delegation, issue triage and UI variant prototyping.
+
+---
+
 ## Also building
 
 Work that lives in private repositories:
